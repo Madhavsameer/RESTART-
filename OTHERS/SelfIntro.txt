@@ -1,0 +1,13 @@
+Hello! My name is Madhav Sameer, and I’m currently pursuing a B.Tech in Computer Science and Engineering at Centurion University of Technology and Management, where I maintain a CGPA of 8.56. I am a proficient software developer with expertise in both MERN stack and Java Full-stack architecture.
+
+I’ve had the opportunity to work as a Software Development Intern at Codtech IT Solutions, where I developed a Java-based vehicle booking system that improved booking efficiency and helped reduce paper waste. I also worked on a Spring Boot Smart Library Management system, enhancing book handling efficiency by 25%. Additionally, I’ve interned as a Web Development Intern at Oasis Infobyte, where I built a real-time chat application using Socket.io and improved file load times with MongoDB and Cloudinary.
+
+Some of my key projects include an Online Tutorial System using Spring Boot and React.js, a Cloud Kitchen Platform utilizing the MERN stack with JWT authentication, and my personal Blogging Application built with Firebase and MERN stack, which boosted user engagement by 50%.
+
+I am skilled in languages like Java, JavaScript, C, and Python, and I’m proficient in tools such as Git, Postman, AWS, and Google Cloud. I have a strong foundation in data structures, networking, and database management, and I’m passionate about clean code, performance optimization, and scalable solutions.
+
+I’ve also participated in several hackathons, securing 1st rank in the Smart India Hackathon at my university, and completed Google Cloud Computing courses.
+
+In addition to my technical skills, I’m a strong communicator and team collaborator, always eager to learn and keep up with industry trends.
+
+Feel free to check out my portfolio, GitHub, and LinkedIn for more about my work!
