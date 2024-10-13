@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multiplication Table</title>
+    <script src="table.js" defer></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        table {
+            border: 3px solid #333;
+            border-collapse: collapse;
+            width: 50%;
+            text-align: center;
+            background-color: #fff;
+        }
+
+        table tr {
+            border-bottom: 1px solid #666;
+            height: 50px;
+        }
+
+        table tr:last-child {
+            border-bottom: none;
+        }
+
+        table td, table th {
+            padding: 15px;
+            font-size: 18px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+        tr:nth-child(odd) {
+            background-color: #e6e6e6;
+        }
+
+        tr:hover {
+            background-color: #d1d1d1;
+        }
+
+        .header {
+            background-color: #333;
+            color: white;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <table>
+        <tr id="1" class="row"></tr>
+        <tr id="2" class="row"></tr>
+        <tr id="3" class="row"></tr>
+        <tr id="4" class="row"></tr>
+        <tr id="5" class="row"></tr>
+        <tr id="6" class="row"></tr>
+        <tr id="7" class="row"></tr>
+        <tr id="8" class="row"></tr>
+        <tr id="9" class="row"></tr>
+        <tr id="10" class="row"></tr>
+    </table>
+    
+</body>
+</html>
