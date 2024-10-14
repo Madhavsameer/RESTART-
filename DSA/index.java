@@ -10,6 +10,7 @@ public class index {
         pattern2(5);
         pattern3(5);
         pattern4(5);
+        System.out.println("Prodesk");
         pro(5);
         
     }
@@ -38,7 +39,7 @@ public class index {
 
     public static void pattern3(int n){
 
-        for(int i=n; i>=n; i--){
+        for(int i=n; i>=1; i--){
             for(int k=1; k<=n-i; k++){
                 System.out.print(" ");
             }
@@ -60,15 +61,31 @@ public class index {
     }
 
     public static void pro(int n){
-        for(int i=n; i>=n; i--){
+        for(int i=n; i>=1; i--){
             for(int k=1; k<=n-i; k++){
                 System.out.print(" ");
             }
             for(int j=1; j<=i; j++){
                 System.out.print("*");
             }
+            for(int j=2; j<=i; j++){
+                System.out.print("*");
+            }
 
             
+            System.out.println();
+        }
+
+        for(int i=2; i<=n; i++){
+            for(int k=1; k<=n-i; k++){
+                System.out.print(" ");
+            }
+            for(int j=1; j<=i; j++){
+                System.out.print("*");
+            }
+            for(int j=2; j<=i; j++){
+                System.out.print("*");
+            }
             System.out.println();
         }
     }
