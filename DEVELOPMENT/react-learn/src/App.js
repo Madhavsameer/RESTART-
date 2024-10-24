@@ -7,6 +7,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import React from 'react';
 import Routing from './components/Routing';
 import ObjectData from './components/ObjectData';
+import Quiz from './components/Quiz';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
           <Route path='/conditional' element={<Conditional />} />
           <Route path='/stopwatch' element={<StopWatch />} />
           <Route path='/object' element={<ObjectData />} />
+          <Route path='/quiz' element={<Quiz />} />
         </Routes>
       </Router>
     </div>
